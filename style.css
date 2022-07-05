@@ -79,7 +79,7 @@ header a:hover{
 
 #showcase{
     min-height: 400px;
-    background: url('background.jpg') -400px 0;
+    background: url('images/background.jpg') -400px 0;
     background-repeat: no-repeat;
     text-align: center;
     color: bisque;
